@@ -1,10 +1,5 @@
-# 👋 Hi, I’m Syed Mohamad
-- 👀 I’m interested in Learning New tools and technologies
-- 🌱 I’m currently Software Engineer at DXC Technology.
-- 💞️ I’m looking to collaborate on Automation part
-- 📫 How to reach me www.linkedin.com/in/syed460
-
-<!---
-syed460/syed460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello, I'm Syed Mohamad
+- 👀 Passionate about exploring new tools and technologies.
+- 🌱 With over 6 years and 9 months of IT experience, I specialize in Node.js backend API development. I have a proven track record of deploying robust solutions on AWS, leveraging technologies such as API Gateway, Lambda, EKS with SAM, and CodeCommit. Committed to evolving as a Software Developer, I am eager to contribute my skills to create innovative applications and deliver high-quality code in dynamic development environments.
+- 💞️ Open to collaboration on automation initiatives.
+- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/syed460)
